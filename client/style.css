@@ -1,0 +1,14 @@
+html, body {
+    padding:0;
+    margin:0;
+    border:0;
+    overflow: hidden;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#canvas {
+    border: silver solid 1px;
+}
